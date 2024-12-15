@@ -6,6 +6,7 @@ Email: tsy1412@gmail.com
 
 > Dynamic and results-driven System Engineer with over 1 year of leadership experience in managing complex data transfers project for CNC cutting tools. Seeking to leverage technical experience and leadership skills to drive efficient and innovation in a new challenging role.
 >
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 ```
 git status
 git add
