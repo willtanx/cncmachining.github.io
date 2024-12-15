@@ -1,14 +1,21 @@
 # Resume
-## Email:tsy1412@gmail.com
-### A third-level heading
+Name: Will.T
 
-> Text that is a quote
+Email: tsy1412@gmail.com
+### Mechanical Engineer
+
+> Dynamic and results-driven System Engineer with over 1 year of leadership experience in managing complex data transfers project for CNC cutting tools. Seeking to leverage technical experience and leadership skills to drive efficient and innovation in a new challenging role.
 >
 ```
 git status
 git add
 git commit
 ```
+### Responsibilites
+
+> Manages the team’s operation and assist the client with the understanding of the product.
+Self-taught Python to develop a program for processing data and utilized Power Automate to transfer data to the Tools Data Management software.
+> 
 # Example headings
 
 ## Sample Section
