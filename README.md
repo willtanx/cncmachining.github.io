@@ -14,14 +14,14 @@ git commit
 ```
 ## Experience
 
-### System Engineer in Tech Konner Sdn Bhd 
+### System Engineer in T K Sdn Bhd 
 > April 2023-Dec 2024
 > 
 > Manages the team’s operation and assist the client with the understanding of the product.
 Self-taught Python to develop a program for processing data and utilized Power Automate to transfer data to the Tools Data Management software.
 
 > 
-### Electrical Engineering Co-op in Vicinity Motor Corp
+### Electrical Engineering Co-op in V M
 > Sept 2021-Dec 2021
 
 > Manages the team’s operation and assist the client with the understanding of the product.
